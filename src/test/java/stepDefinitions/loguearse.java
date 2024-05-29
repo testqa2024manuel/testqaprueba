@@ -29,5 +29,6 @@ public class loguearse {
     }
     @Then("Si la pagina visualizar la opcion Log Out")
     public void Logueado() {
+        System.out.println("finaliza la prueba");
     }
 }
