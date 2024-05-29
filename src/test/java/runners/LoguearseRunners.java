@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
-              features = "src/test/resources/Features/Loguearse.feature",
+              features = "src/test/resources/features/Loguearse.feature",
         glue = {"stepDefinitions","hooks"},
         snippets = CucumberOptions.SnippetType.CAMELCASE
 )
