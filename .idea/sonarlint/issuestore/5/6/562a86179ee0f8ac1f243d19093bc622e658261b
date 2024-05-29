@@ -1,0 +1,15 @@
+
+†	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$472e89ae-700a-4ce4-b0c5-87d05f0e6108
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$780cffd0-880d-4bf3-941b-1fbc9e685569
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$1ffae7d7-0ba0-40df-93a1-5175bd6d4e8c
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚâĞûÿÿÿÿJ$b0e413f7-543b-4a72-b142-fe30949842ec
+u
+java:S1118":Add a private constructor to hide the implicit public one.(òˆ‹/J$4699ccf3-d380-4448-af34-5f33093bce05
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä²¿ÿÿÿÿÿJ$2138aa4a-01b6-497b-b011-476f46c3070d
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$852ab2a9-abc5-4429-b7be-3b40168fdb13
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‹¤ïJ$21673be9-83de-4e3b-8246-4d23fa0cde5c
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$85338692-2ec2-4fd7-bd95-4251f84c1527
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$368a3f96-cac6-442b-b2a5-93de7de0f508

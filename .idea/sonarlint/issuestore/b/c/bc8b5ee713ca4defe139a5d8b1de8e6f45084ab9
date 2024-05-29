@@ -1,0 +1,26 @@
+
+m
+java:S1104"RMake Manuel a static final constant or non-public and provide accessors if needed.(‹¥§Åüÿÿÿÿ
+G
+java:S1444",Make this "public static Manuel" field final(‹¥§Åüÿÿÿÿ
+l
+java:S3008"QRename this field "Manuel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¥§Åüÿÿÿÿ
+L
+java:S2696%"6Make the enclosing method "static" or remove this set.(¤Ôíê
+\
+java:S1128"FRemove this unused import 'io.github.bonigarcia.wdm.WebDriverManager'.(°Ëõ‰
+
+java:S1128"dRemove this unused import 'net.serenitybdd.core.webdriver.driverproviders.ChromeDriverCapabilities'.(Ó…“ıÿÿÿÿ
+X
+java:S1128
+"=Remove this unused import 'org.junit.jupiter.api.BeforeEach'.(Ú’ èùÿÿÿÿ
+3
+java:S1128"Remove this duplicated import.(†È
+`
+java:S1128"ERemove this unused import 'org.openqa.selenium.chrome.ChromeOptions'.(ÿ¾Ïóüÿÿÿÿ
+\
+java:S1128"ARemove this unused import 'org.openqa.selenium.edge.EdgeOptions'.(Åëõ³úÿÿÿÿ
+3
+java:S1128"Remove this duplicated import.(†È
+V
+java:S1128"@Remove this unused import 'org.openqa.selenium.edge.EdgeDriver'.(ìÅ°°

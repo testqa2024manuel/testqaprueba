@@ -1,0 +1,25 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ðìõ³
+Q	java:S125$"<This block of commented-out lines of code should be removed.(¼Êêð
+@	java:S106("+Replace this use of System.out by a logger.(Ó¤¸‰
+@	java:S1062"+Replace this use of System.out by a logger.(—î··
+@	java:S1063"+Replace this use of System.out by a logger.(¶ÇÁ€
+E	java:S1064"+Replace this use of System.out by a logger.(à‚†×ùÿÿÿÿ
+?	java:S106:"+Replace this use of System.err by a logger.(°üû\
+E	java:S106;"+Replace this use of System.out by a logger.(ƒ ÊÃùÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(»þÔÝøÿÿÿÿ
+Q	java:S125A"<This block of commented-out lines of code should be removed.(ÚÔô™
+S
+java:S1128"=Remove this unused import 'UserInterfaces.RegistrarUsuarios'.(£¿®º
+E
+java:S1128"/Remove this unused import 'Utils.AlertHandler'.(Ø·â
+A
+java:S1128"+Remove this unused import 'hooks.TheActor'.(Øïê§
+]
+java:S1128"GRemove this unused import 'net.serenitybdd.screenplay.waits.WaitUntil'.(˜• Ü
+B
+java:S1128"-Remove this unused import 'org.junit.Assert'.(­ÞL
+]
+java:S1128"GRemove this unused import 'UserInterfaces.IngresoUserInterfaces.LINK1'.(çùõ
+x
+java:S1128"bRemove this unused import 'net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isVisible'.(‡ª

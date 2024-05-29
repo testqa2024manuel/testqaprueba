@@ -1,0 +1,26 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğìõ³J$2f0269a6-e17b-4a9d-af5f-8505e13b642c
+C
+java:S3010"!Remove this assignment of "name".(É´“ıÿÿÿÿ8÷Ò¡ø1
+e
+java:S3010"$Remove this assignment of "country".(‚ÂÛóüÿÿÿÿJ$565757ed-3b8c-4223-a650-88bb2ef5819b
+b
+java:S3010"!Remove this assignment of "city".(ÉµëûüÿÿÿÿJ$00131987-6a1e-4849-b026-5b9ea91f484a
+]
+java:S3010"!Remove this assignment of "card".(Ï¦²ÎJ$cab60f44-f63a-488c-b0c0-e121fcd4795e
+c
+java:S3010""Remove this assignment of "month".(•‚¬ÿÿÿÿÿJ$59d61221-fe1e-42ba-99e8-e177ce0d24ad
+b
+java:S3010"!Remove this assignment of "year".(±½ÿ¡ıÿÿÿÿJ$9e39c512-c7dc-49b8-a7dc-0e99208cfe13
+v
+java:S2209"5Change this instance-reference to a static reference.(É´“ıÿÿÿÿJ$386de86b-cad0-42eb-b130-a7046f279ad7
+v
+java:S2209"5Change this instance-reference to a static reference.(‚ÂÛóüÿÿÿÿJ$a971a253-f26a-427f-88f7-59e6c499ca48
+v
+java:S2209"5Change this instance-reference to a static reference.(ÉµëûüÿÿÿÿJ$e3a2d941-f417-4f1f-a50b-244cbf21383a
+q
+java:S2209"5Change this instance-reference to a static reference.(Ï¦²ÎJ$b87c961c-b29e-48ea-9c7c-83549edfd77a
+v
+java:S2209"5Change this instance-reference to a static reference.(•‚¬ÿÿÿÿÿJ$564a200a-ccfe-4875-bfb5-9ac0ae34354f
+W
+java:S2209"5Change this instance-reference to a static reference.(±½ÿ¡ıÿÿÿÿ8 ÷Ò¡ø1
