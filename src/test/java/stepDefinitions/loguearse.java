@@ -20,7 +20,7 @@ public class loguearse {
         Manuel.wasAbleTo(Open.browserOn().the(Url));
     }
     @When("El usuario selecciona la opcion de login")
-    public void Login() {
+    public void  Login() {
     }
     @And("Digita el nombre de usuario {string} y Password {string}")
     public void DigitarUsuario(String userName, String passWord) {
